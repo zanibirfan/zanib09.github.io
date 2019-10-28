@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexander Schenk"
   avatar           : "profile.png"
-  bio              : "This is a sample portfolio for AP Computer Science Principles"
+  bio              : "This is a sample portfolio for AP Computer Science Principles. In AP Computer Science Principles, students learn how to creatively address real-world issues with the tools and processes of computer science."
   location         : "St. Louis, MO"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
