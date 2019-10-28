@@ -10,7 +10,7 @@ redirect_from:
 
 <b>AP Computer Science Principles</b> is an introductory college-level computing course. Students cultivate their understanding of computer science through working with data, collaborating to solve problems, and developing computer programs as they explore concepts like creativity, abstraction, data and information, algorithms, programming, the internet, and the global impact of computing.
 
-I have created this website as a template to demonstreate how students can easily create portfolios to showcase work for AP CSP. Better yet, students can create QR codes that link to their portfolio pages. Display your students' QR codes in your classroom for easy access. Try it out by holding your phone's camera up to the QR code below:
+I have created this website as a template to demonstrate how students can easily create portfolios to showcase work for AP CSP. Better yet, students can create QR codes that link to their portfolio pages. Display your students' QR codes in your classroom for easy access. Try it out by holding your phone's camera up to the QR code below:
 
 ![Schenk QR Code](/images/frame.png)
 
